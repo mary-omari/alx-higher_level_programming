@@ -1,1 +1,1 @@
-This is a python exceptions task project.i
+This is a python exceptions task project.
